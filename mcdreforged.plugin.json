@@ -1,0 +1,11 @@
+{
+  "id": "mcsatel",
+  "version": "1.0.0",
+  "name": "MCSatel",
+  "author": "Saurlax",
+  "description": {
+    "en_us": "Connect your server to QQ Guild",
+    "zh_cn": "连接你的服务器到QQ频道"
+  },
+  "link": "https://mcsatel.saurlax.com"
+}
